@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 apple
 watermelon
 pear
+=======
+better call saul
+Bullet train
+John Wick
+
+>>>>>>> movies
